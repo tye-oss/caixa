@@ -1,4 +1,5 @@
 "# caixa"
+
 🗃️ Gerenciador de Estoque com Caixa Integrado (Python + Tkinter)
 Este projeto é um sistema simples de gerenciamento de estoque com uma interface gráfica feita em Tkinter e suporte a operações de compra via caixa. O projeto utiliza SQLite para persistência dos dados.
 
