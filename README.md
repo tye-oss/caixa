@@ -3,7 +3,11 @@
 Este projeto é um sistema simples de gerenciamento de estoque com uma interface gráfica feita em Tkinter e suporte a operações de compra via caixa. O projeto utiliza SQLite para persistência dos dados.
 
 📁 Estrutura de Arquivos
-📦 Projeto ├── backend.py # Manipulação direta do banco de dados SQLite ├── caixa.py # Lógica de compra (caixa) ├── interface.py # Interface gráfica Tkinter ├── main.py # Arquivo principal para iniciar a aplicação ├── main.spec # Especificações do PyInstaller (opcional)
+📦 Projeto ├── backend.py # Manipulação direta do banco de dados SQLite 
+           ├── caixa.py # Lógica de compra (caixa) 
+           ├── interface.py # Interface gráfica Tkinter 
+           ├── main.py # Arquivo principal para iniciar a aplicação 
+           ├── main.spec # Especificações do PyInstaller (opcional)
 
 yaml Copiar Editar
 
